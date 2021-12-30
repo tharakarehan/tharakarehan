@@ -2,4 +2,4 @@
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-dinithherath18332-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tharakarehan10@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-DinithHerath-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharaka-rehan-b600b8187/) [![Mail Badge](https://img.shields.io/badge/-@dini__herath-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/t_rehx/) 
+[![Mail Badge](https://img.shields.io/static/v1?message=tharakarehan&logo=gmail&labelColor=ea4335&color=ea4335&logoColor=white&label=%20)](mailto:tharakarehan10@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-DinithHerath-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharaka-rehan-b600b8187/) [![Mail Badge](https://img.shields.io/badge/-@dini__herath-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/t_rehx/) 
