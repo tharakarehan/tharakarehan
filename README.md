@@ -3,3 +3,9 @@
 :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/static/v1?message=tharakarehan&logo=gmail&labelColor=ea4335&color=ea4335&logoColor=white&label=%20)](mailto:tharakarehan10@gmail.com) [![Linkedin Badge](https://img.shields.io/static/v1?message=tharakarehan&logo=linkedin&labelColor=0077b5&color=0077b5&logoColor=white&label=%20)](https://www.linkedin.com/in/tharaka-rehan-b600b8187/) [![Mail Badge](https://img.shields.io/static/v1?message=@t_rehx&logo=instagram&labelColor=8a3ab9&color=8a3ab9&logoColor=white&label=%20)](https://www.instagram.com/t_rehx/) 
+
+I'm **Tharaka Rehan**, an Electronic and Telecommunication Engineer and a Developer, currently studying in 4th year at Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka. I am also a co-founder at [iXD Labs](https://ixdlabs.lk) and currently working as the **AI Engineer**. 
+
+I spend most of my time developing **outstanding projects** or thinking about new **innovative ideas** to solve problems around me.
+
+- 👨‍🎓 Take a look at [my web portfolio](https://tharakarehan.github.io).
