@@ -6,9 +6,9 @@
 
 [![Mail Badge](https://img.shields.io/static/v1?message=tharakarehan&logo=gmail&labelColor=ea4335&color=ea4335&logoColor=white&label=%20)](mailto:tharakarehan10@gmail.com) [![Linkedin Badge](https://img.shields.io/static/v1?message=tharakarehan&logo=linkedin&labelColor=0077b5&color=0077b5&logoColor=white&label=%20)](https://www.linkedin.com/in/tharaka-rehan-b600b8187/) [![Mail Badge](https://img.shields.io/static/v1?message=@t_rehx&logo=instagram&labelColor=8a3ab9&color=8a3ab9&logoColor=white&label=%20)](https://www.instagram.com/t_rehx/) 
 
-I'm **Tharaka Rehan**, an Electronic and Telecommunication Engineer and a Developer, currently studying in 4th year at Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka. I am an individual who likes to solve challenging problems utilising analytical skills and engineering principles.
+I'm **Tharaka Rehan**, an Electronic and Telecommunication Engineer and a Developer, freshly graduated from Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka. I am an individual who likes to solve challenging problems utilising analytical skills and engineering principles.
 
-Interested in Machine Learning, Computer Vision, Big Data, Data Analytics, NLP, Data Science, Web/App Development and Devops.
+Interested in Software Development, Computer Vision, NLP, Web/App Development and Devops.
 
 
 👨‍🎓 Take a look at [my web portfolio](https://tharakarehan.github.io).
